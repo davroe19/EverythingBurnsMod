@@ -1,0 +1,4 @@
+EverythingBurnsMod
+==================
+
+First minecraft mod
